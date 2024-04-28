@@ -15,13 +15,13 @@
     "lint:prettier": "prettier src/**/*.js",
     "coverage": "nyc --reporter=lcov npm run test"
   },
-  "author": "Xavier Decuyper <hi@savjee.be>",
-  "license": "MIT",
-  "repository": "github:SavjeeTutorials/SavjeeCoin",
+  "author": "RadinaAvramova <radina.avramova@gmail.co,>",
+  "license": "",
+  "repository": "github:RadinaAvramova/SavjeeCoin",
   "bugs": {
-    "url": "https://github.com/SavjeeTutorials/SavjeeCoin/issues"
+    "url": "https://github.com/RadinaAvramova/SavjeeCoin/issues"
   },
-  "homepage": "https://github.com/SavjeeTutorials/SavjeeCoin",
+  "homepage": "https://github.com/RadinaAvramova/SavjeeCoin",
   "dependencies": {
     "debug": "^4.1.1",
     "elliptic": "^6.5.4"
