@@ -15,7 +15,7 @@
     "lint:prettier": "prettier src/**/*.js",
     "coverage": "nyc --reporter=lcov npm run test"
   },
-  "author": "RadinaAvramova <radina.avramova@gmail.co,>",
+  "author": "RadinaAvramova <radina.avramova@gmail.com>",
   "license": "",
   "repository": "github:RadinaAvramova/SavjeeCoin",
   "bugs": {
